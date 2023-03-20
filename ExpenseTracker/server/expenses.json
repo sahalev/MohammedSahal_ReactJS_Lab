@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "expenseDescription": "Bought Fridge",
+      "payeeName": "Ramesh",
+      "price": "1222",
+      "date": "2023-03-01",
+      "id": "1"
+    },
+    {
+      "expenseDescription": "Bought TV",
+      "payeeName": "Hanan",
+      "price": "9876",
+      "date": "2023-03-02",
+      "id": "2"
+    },
+    {
+      "expenseDescription": "Bought Table",
+      "payeeName": "Sahal",
+      "price": "10000",
+      "date": "2023-03-03",
+      "id": "3"
+    },
+    {
+      "expenseDescription": "Paid Cable bill",
+      "payeeName": "Hanan",
+      "price": "200",
+      "date": "2023-03-07",
+      "id": "yOv6m7S"
+    },
+    {
+      "expenseDescription": "Travel Cost to Chennai",
+      "payeeName": "Sahal",
+      "price": 23400,
+      "date": "2023-03-13T00:00:00.000Z",
+      "id": "iOC2_8f"
+    }
+  ]
+}
